@@ -8,3 +8,4 @@
 | :---: | :--- | :--- | :--- |
 | 1 | **Làn thủy triều** (`Lane type = 1`, 潮汐车道) | Mục 1.1 (Bảng 1), Mục 2.1.1, Mục 2.1.4 | [lan-thuy-trieu.md](lan-thuy-trieu.md) |
 | 2 | **Nhầm lẫn cạnh lối vào** (`entrance_confusion`) | Mục 1.6 (Bảng 6), Mục 2.1.6.1 | [entrance-confusion.md](entrance-confusion.md) |
+| 3 | **Quan hệ topo** (`topology`, 拓扑关系) | Mục 2.1.1 (quy tắc 6, 8, 9, 10, 11) | [quan-he-topo.md](quan-he-topo.md) |
